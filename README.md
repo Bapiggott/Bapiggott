@@ -2,9 +2,14 @@
 
 ## About Me
 - **Computer Science undergrad** (AI specialization) at Oakland University  
-- Passionate about **UAV security**, **AI-driven** solutions, and **machine learning pipelines**  
+- Passionate about **UAV security**, **AI-driven** solutions, **machine learning pipelines**, and **intelligent agents**  
 - Skilled in **Python, C, C#, Java, JavaScript**; also exploring **React**, **CSS**, and **frontend frameworks**  
 - Enjoys integrating **AI** into **unmanned systems** for secure and efficient operations
+
+## AI Agents
+- Developing **agentic systems** using **LLMs** for UAV navigation, data processing, and real-time decision-making  
+- Exploring frameworks that balance **reasoning** and **action** without overcomplicating real-time tasks  
+- Investigating **autonomous**, multi-step logic for a variety of **drone** and **robotic** use cases  
 
 ## Languages & Tools
 
@@ -34,12 +39,16 @@
 ## GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" height="160" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott&" height="160" alt="GitHub Streak" />
-
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott" alt="GitHub Streak" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=Bapiggott&column=3&theme=onedark" alt="Trophies" /></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -47,7 +56,7 @@
 ## What I'm Working On
 - Building advanced **LLM** capabilities for **UAV-related** tasks  
 - Exploring **dataset creation** for drone commands, using real-world and simulated data  
-- Experimenting with **secure UAV communications** and **intelligent decision-making**
+- Experimenting with **secure UAV communications** and **intelligent decision-making**  
 
 ## Projects & Interests
 - **AI-Driven Security**: Using ML and LLMs to detect threats in UAV data networks  
@@ -56,6 +65,6 @@
 
 ## Get in Touch
 - **Email**: [brettapiggott@gmail.com](mailto:brettapiggott@gmail.com)  
-- Open to collaborations on **AI**, **UAV**, or **open-source** projects  
+- Open to collaborations on **AI**, **UAV**, **AI agents**, or **open-source** projects  
 
-Thanks for stopping by! Explore the repositories below or reach out to discuss research, drone tech, or AI.
+Thanks for stopping by! Feel free to explore the repositories below or reach out to discuss research, drone tech, or AI.
