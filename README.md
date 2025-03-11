@@ -39,16 +39,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott" alt="GitHub Streak" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=Bapiggott&column=3&theme=onedark" alt="Trophies" /></td>
-    </tr>
-  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" height="160" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott&" height="160" alt="GitHub Streak" />
+
 </div>
 
 <br/>
