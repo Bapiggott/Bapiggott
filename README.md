@@ -62,5 +62,3 @@
 ## Get in Touch
 - **Email**: [brettapiggott@gmail.com](mailto:brettapiggott@gmail.com)  
 - Open to collaborations on **AI**, **UAV**, **AI agents**, or **open-source** projects  
-
-Thanks for stopping by! Feel free to explore the repositories below or reach out to discuss research, drone tech, or AI.
