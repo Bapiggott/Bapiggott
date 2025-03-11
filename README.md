@@ -1,25 +1,10 @@
-
-<!--
-**Bapiggott/Bapiggott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Brett! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## About Me
 - **Computer Science undergrad** (AI specialization) at Oakland University  
-- Interested in **UAV security**, **AI-driven** solutions, and **machine learning pipelines**  
-- Experienced with **Python, C, C#, Java**, and **ML frameworks** like PyTorch and TensorFlow  
-- Passionate about integrating **AI** into **unmanned systems** for secure and efficient operations
+- Passionate about **UAV security**, **AI-driven** solutions, and **machine learning pipelines**  
+- Skilled in **Python, C, C#, Java, JavaScript**; also exploring **React**, **CSS**, and **frontend frameworks**  
+- Enjoys integrating **AI** into **unmanned systems** for secure and efficient operations
 
 ## Languages & Tools
 
@@ -30,6 +15,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
   <!-- TOOLS -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -44,23 +32,21 @@ Here are some ideas to get you started:
 <br/>
 
 ## GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" alt="Bapiggott" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" alt="Bapiggott" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" height="160" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott&" height="160" alt="GitHub Streak" />
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott&" alt="Bapiggott" />
-</p>
+</div>
 
 <br/>
 
 ## What I'm Working On
 - Building advanced **LLM** capabilities for **UAV-related** tasks  
-- Exploring **dataset creation** for drone commands, including real-world and simulated data  
+- Exploring **dataset creation** for drone commands, using real-world and simulated data  
 - Experimenting with **secure UAV communications** and **intelligent decision-making**
 
 ## Projects & Interests
@@ -72,4 +58,4 @@ Here are some ideas to get you started:
 - **Email**: [brettapiggott@gmail.com](mailto:brettapiggott@gmail.com)  
 - Open to collaborations on **AI**, **UAV**, or **open-source** projects  
 
-Thanks for stopping by! Feel free to explore the repositories below or reach out for a conversation about research, drone tech, or AI.
+Thanks for stopping by! Explore the repositories below or reach out to discuss research, drone tech, or AI.
