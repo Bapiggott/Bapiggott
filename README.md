@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bapiggott&show_icons=true&locale=en" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bapiggott&show_icons=true&locale=en&layout=compact" height="160" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott&" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bapiggott&" height="160" />
 
 </div>
 
